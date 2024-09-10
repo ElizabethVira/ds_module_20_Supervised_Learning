@@ -105,7 +105,7 @@ For the **confusion matrix** indicates that the model performs well, accurately 
 
 **Summary**
 
-Logistic regression is a recommended model for assessing loan risk due to its excellent overall performance. It is particularly effective at identifying both healthy and high-risk loans, making it a strong choice for predicting borrower creditworthiness in your peer-to-peer lending service.
+Logistic regression is a recommended model for assessing loan risk due to its excellent overall performance. It is particularly effective at identifying both healthy and high-risk loans, making it a strong choice for predicting borrower creditworthiness the peer-to-peer lending service.
 
 - High-Risk Loans: The model effectively identifies 94% of high-risk loans, crucial for minimizing financial losses.
 - Healthy Loans: It accurately classifies nearly all healthy loans, ensuring reliability in identifying low-risk borrowers.
