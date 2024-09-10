@@ -71,7 +71,7 @@ Analysis of Machine Learning Models Used for the Evaluation
 
 Purpose of the Analysis
 ---
-The goal of this analysis was to build and evaluate a machine learning model to predict borrowers' creditworthiness using historical data from a peer-to-peer lending company. The primary objective was to classify loans into two categories: healthy loans (0) and high-risk loans (1). This classification helps the company minimize financial losses by accurately identifying higher-risk loans.
+The goal of this analysis is to develop and evaluate a machine learning model to predict borrowers' creditworthiness. This will help the lending services company determine which model best suits its needs and thus reduce the probability of financial losses. The primary objective is to classify loans into two categories: healthy loans (0) and high-risk loans (1). This classification assists the company in minimizing financial losses by accurately identifying the highest-risk loans.
 
 ![alt text](./Images/credit.PNG)
 
